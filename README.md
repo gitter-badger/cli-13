@@ -1,4 +1,7 @@
 # MERN.JS Super Simple Boilerplate
+
+[![Join the chat at https://gitter.im/mernjs/mernjs](https://badges.gitter.im/mernjs/mernjs.svg)](https://gitter.im/mernjs/mernjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 MERN.JS is a super simple boilerplate for building web and mobile apps in pure JavaScript
 
 ## Installation
